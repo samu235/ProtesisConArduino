@@ -18,7 +18,6 @@ INDEX VERSION 1.130+D:\java\protesis\ProtesisConArduino\.metadata\.plugins\org.e
 2688783450.index
 664140773.index
 2509800163.index
-2895863183.index
 61436394.index
 1101913381.index
 1063643129.index
